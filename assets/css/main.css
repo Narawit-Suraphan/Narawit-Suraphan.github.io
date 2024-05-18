@@ -2169,7 +2169,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
+			background: #fd1e1e;
 			border-color: #83d3c9;
 			color: #fff !important;
 		}
